@@ -55,7 +55,7 @@
       const formData = Object.fromEntries(new FormData(e.target).entries());
 
       // 🟢 CHỈNH URL API Ở DÒNG DƯỚI
-      const apiUrl = "https://your-backend-app.onrender.com/predict";
+      const apiUrl = "https://github.com/ducvietn579-web/Internet_Addiction_/blob/main/index.";
 
       try {
         const response = await fetch(apiUrl, {
